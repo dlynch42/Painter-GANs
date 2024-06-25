@@ -1,7 +1,3 @@
-Certainly! Here's a generated README for your CycleGAN project:
-
----
-
 # CycleGAN for Image Transformation
 
 ## Introduction
